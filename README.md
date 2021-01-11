@@ -49,7 +49,7 @@ This package is used by [WebTorrent](https://webtorrent.io) and [many others](#w
 ## install
 
 ```
-npm install simple-peer
+npm install git+https://github.com/Hamiltone/simple-peer.git
 ```
 
 This package works in the browser with [browserify](https://browserify.org). If
